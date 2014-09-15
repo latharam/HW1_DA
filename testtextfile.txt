@@ -1,0 +1,1 @@
+In languages that use inter-word spaces. such as most that use the Latin alphabet, and most programming languages. this approach is fairly straightforward. However, even here there are many edge cases such.
